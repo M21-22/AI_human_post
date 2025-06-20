@@ -2,6 +2,8 @@
 
 This project builds a **text classification pipeline** to distinguish between human-written and AI-generated text using a simple and interpretable **Logistic Regression model**.
 
+> 💡 GitHub Repo: [M21-22/AI_HUMAN_POST](https://github.com/M21-22/ai_human_post)
+
 ---
 
 ## 🧠 Objective
@@ -119,4 +121,4 @@ Check the dataset license on Kaggle before redistributing or publishing any mode
 ## 🤝 Credits
 
 - Dataset by [Shane Gerami](https://www.kaggle.com/shanegerami)  
-- Built with ♥ by [Your Name]
+- Developed by [@M21-22](https://github.com/M21-22)
